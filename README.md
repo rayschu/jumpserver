@@ -1,5 +1,5 @@
 #telnet_recorder
-Use a remote Linux to telnet/ssh devices, this script will record the output and input automaticlly.
+Use a remote Linux to telnet/ssh devices, this script will record the output and input automaticlly and save it as a file.
 #Useage
 Add this script to /home/XXX/.bash_profile
 #Notice
