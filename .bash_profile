@@ -32,7 +32,7 @@ do
 #User can input 'Ctrl+C'.
 trap 2
 #Read words from input.
-        echo -n "[$USER@Bravo ~]$ "
+        echo -n "[$USER@Linux ~]$ "
         read COMMAND
         LENTH=${#COMMAND}
 #If user inputs "Enter", continue.
